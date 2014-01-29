@@ -1,6 +1,4 @@
 Sujay V. Busam
-Lab 2
-
 -
 
 Q1: Run the script and pass in two valid date arguments. Program will exit if dates are not valid or not right number of arguments.
@@ -24,4 +22,4 @@ The .html files will be overwritten each run.
 
 - 
 
-Q4: Script requires user names as arguments. Will skip invalid names. Exits if invalid arguments. Time periods are calculated in minutes
+Q5: Script requires user names as arguments. Will skip invalid names. Exits if invalid arguments. Time periods are calculated in minutes
